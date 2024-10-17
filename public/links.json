@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Facebook",
+    "img": "/facebook.png",
+    "dist": "https://www.facebook.com/ziad.almotamrd"
+  },
+  {
+    "title": "Threads",
+    "img": "/threads.png",
+    "dist": "https://www.threads.net/ziad_abo_alros"
+  },
+  {
+    "title": "X (Twitter)",
+    "img": "/twitter.png",
+    "dist": "https://x.com/AlrosZiad"
+  },
+  {
+    "title": "Instagram",
+    "img": "/instagram.png",
+    "dist": "https://www.instagram.com/ziad_abo_alros"
+  },
+  {
+    "title": "LinkedIn",
+    "img": "/linkedin.png",
+    "dist": "https://www.linkedin.com/in/ziad-abo-alros"
+  },
+  {
+    "title": "Whatsapp",
+    "img": "/whatsapp.png",
+    "dist": "https://wa.me/+201003025993"
+  },
+  {
+    "title": "Mail",
+    "img": "/mail.png",
+    "dist": "mailto:aboalrosziad@gmail.com"
+  }
+]
